@@ -9,7 +9,7 @@ def initialize(total = 0)
 end 
 
 def total (total = 100)
-  @total 
+  @total = total
 end
 
 end 
