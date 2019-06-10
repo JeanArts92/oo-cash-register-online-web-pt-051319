@@ -10,6 +10,7 @@ end
 
 def add_item(item, price)
   @item << item 
+  price += total
 
 
 end 
