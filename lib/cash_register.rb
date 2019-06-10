@@ -8,9 +8,7 @@ def initialize(total = 0)
   @discount = 20
 end 
 
-def self.total
-  @@cash_register_total
-end
+
 
 
 end 
