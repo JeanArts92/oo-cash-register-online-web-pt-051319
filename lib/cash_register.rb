@@ -1,9 +1,9 @@
 class CashRegister
   
-
+@@total = 0 
   
-def initialize(total = 0, discount)
-  @total = total
+def initialize(discount)
+  self = total
   
 end 
 
