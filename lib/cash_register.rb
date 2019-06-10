@@ -4,7 +4,7 @@ attr_accessor :discount, :items, :last_transactions, :total
   
 def initialize(discount = 0)
   @items = []
-  @discount = 20
+  @discount = discount
   @total = total
 end 
 
