@@ -11,6 +11,7 @@ end
 def self.total 
   @total
 end 
+
 end
 
 end 
