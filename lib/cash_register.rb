@@ -1,5 +1,5 @@
 class CashRegister
-attr_accessor :discount 
+attr_accessor :discount, :items, :last_transactions, 
 
 @@cash_register_total = 100 
   
