@@ -8,7 +8,7 @@ def initialize(total = 0)
   @discount = 20
 end 
 
-def total(current_total = 100)
+def current_total(current_total = 100)
   @current_total = current_total
 end
 
