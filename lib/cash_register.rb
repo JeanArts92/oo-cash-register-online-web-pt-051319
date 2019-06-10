@@ -3,7 +3,7 @@ class CashRegister
 @@total = 0 
   
 def initialize(discount)
-  self = total
+  @@total = total
   
 end 
 
