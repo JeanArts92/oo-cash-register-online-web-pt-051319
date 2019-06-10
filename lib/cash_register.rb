@@ -10,7 +10,9 @@ end
 
 def add_item(item, price)
   @item << item 
-  price += total
+  price += @total
+  @quantity = quantity
+end
 
 
 end 
