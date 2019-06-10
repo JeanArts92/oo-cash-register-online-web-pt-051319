@@ -8,8 +8,9 @@ def initialize(total = 0)
   @discount = 20
 end 
 
-def total=(total)
+def self.total 
   @total
+end 
 end
 
 end 
