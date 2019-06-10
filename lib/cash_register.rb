@@ -10,5 +10,6 @@ end
 
 def total
   @total
+end
 
 end 
