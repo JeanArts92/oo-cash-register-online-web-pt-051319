@@ -1,6 +1,6 @@
 class CashRegister
   
-def e_discount(discount)
+def e_discount(discount = )
   @discount = discount 
 end
   
